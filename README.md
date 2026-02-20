@@ -44,3 +44,7 @@ Enter your preferences and get your password
  - Taking user input
 
  - Generating random values
+
+
+ ![sample output] (output image.png)
+ 
